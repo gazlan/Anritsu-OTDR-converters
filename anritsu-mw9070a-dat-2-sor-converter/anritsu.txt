@@ -1,0 +1,8 @@
+-*-   Anritsu 1.0   *   (c)  Gazlan,  2015   -*-
+
+Anritsu MW9070a DAT-2-SOR converter
+
+Usage: anritsu.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
+

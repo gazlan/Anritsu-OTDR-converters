@@ -1,0 +1,7 @@
+-*-   MW9070  *   Copyright (c) Gazlan, 2015   -*-
+
+MW9070
+
+Usage: MW9070.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
